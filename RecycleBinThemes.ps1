@@ -1,5 +1,5 @@
 $pictures_path = [Environment]::GetFolderPath("MyPictures")
-# This is where we will store the icons
+# This is where icons will be stored 
 $recycle_bin_themes_path = "$pictures_path\RecycleBinThemes"
 # Hide the progressbar from Invoke-WebRequest
 $ProgressPreference = "SilentlyContinue"
