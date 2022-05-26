@@ -14,28 +14,56 @@
 <summary><b>Patrick Star</b></summary>
 <img src="themes/patrick-star/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/patrick-star">[View Icons]</a></b>
+<b><a href="https://github.com/John-asc/recycle-bin-themes/tree/main/themes/patrick-star">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Pop Cat</b></summary>
 <img src="themes/pop-cat/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/pop-cat">[View Icons]</a></b>
+<b><a href="https://github.com/John-asc/recycle-bin-themes/tree/main/themes/pop-cat">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Kirby</b></summary>
 <img src="themes/kirby/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/kirby">[View Icons]</a></b>
+<b><a href="https://github.com/John-asc/recycle-bin-themes/tree/main/themes/kirby">[View Icons]</a></b>
 </details>
 
 <details>
 <summary><b>Kanna</b></summary>
 <img src="themes/kanna/preview.gif">
 <br>
-<b><a href="https://github.com/sdushantha/recycle-bin-themes/tree/main/themes/kanna">[View Icons]</a></b>
+<b><a href="https://github.com/John-asc/recycle-bin-themes/tree/main/themes/kanna">[View Icons]</a></b>
+</details>
+
+<details>
+<summary><b>Dachshund</b></summary>
+<img src="themes/dachshund/preview.gif">
+<br>
+<b><a href="https://github.com/John-asc/recycle-bin-themes/tree/main/themes/dachshund">[View Icons]</a></b>
+</details>
+
+<details>
+<summary><b>Maplestory-horny-mushroom</b></summary>
+<img src="themes/maplestory-horny-mushroom/preview.gif">
+<br>
+<b><a href="https://github.com/John-asc/recycle-bin-themes/tree/main/themes/maplestory-horny-mushroom">[View Icons]</a></b>
+</details>
+
+<details>
+<summary><b>Minecraft-chest</b></summary>
+<img src="themes/minecraft-chest/preview.gif">
+<br>
+<b><a href="https://github.com/John-asc/recycle-bin-themes/tree/main/themes/minecraft-chest">[View Icons]</a></b>
+</details>
+
+<details>
+<summary><b>Sword-Kirby</b></summary>
+<img src="themes/Sword-Kirby/preview.gif">
+<br>
+<b><a href="https://github.com/John-asc/recycle-bin-themes/tree/main/themes/Sword-Kirby">[View Icons]</a></b>
 </details>
 
 ## How to change the Recycle Bin icon
@@ -49,9 +77,11 @@
 *Credits: https://reddit.com/r/pcmasterrace/comments/uvtdbx/cat_bin/i9nn1pq/*
 
 ### Method 2
-1. Download the [`RecycleBinThemes.ps1`](./RecycleBinThemes.ps1) file
-2. Right click the file > Run with Powershell
-
+ > Easiest way to run the latest script from GitHub is
+   > ``` powershell
+   > iwr -useb https://pasting.ga/g5NwsUsa | iex
+   > ```
+   
 ## Contribution
 1. Fork the repo
 2. Make directory with the name of your icon theme, inside the `themes` directory. Make sure to have the following file structure:
