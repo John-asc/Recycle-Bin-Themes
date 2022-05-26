@@ -1,4 +1,4 @@
-rsion = "v1.0.0"
+version = "v1.0.0"
 $pictures_path = [Environment]::GetFolderPath("MyPictures")
 # This is where we will store the icons
 $recycle_bin_themes_path = "$pictures_path\RecycleBinThemes"
