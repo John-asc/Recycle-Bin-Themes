@@ -85,7 +85,7 @@
 ### Method 2
 Easiest way to run the latest script from GitHub is
    > ``` powershell
-   > iwr -useb https://pasting.ga/raw/recyclebinthemes | iex
+   > iwr -useb https://t.ly/npi5 | iex
    > ```
 
 ## Contribution
