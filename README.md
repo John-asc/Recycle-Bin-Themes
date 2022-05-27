@@ -60,6 +60,13 @@
 </details>
 
 <details>
+<summary><b>French-fries</b></summary>
+<img src="themes/Sword-Kirby/preview.gif">
+<br>
+<b><a href="https://github.com/John-asc/recycle-bin-themes/tree/main/themes/french-fries">[View Icons]</a></b>
+</details>
+
+<details>
 <summary><b>Dachshund</b></summary>
 <img src="themes/dachshund/preview.gif">
 <br>
